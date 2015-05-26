@@ -1,0 +1,2 @@
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour Backup\NinjaSaviour\NinjaSaviourContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviourContent\obj\x86\Debug\NinjaSaviourContent.contentprojResolveAssemblyReference.cache

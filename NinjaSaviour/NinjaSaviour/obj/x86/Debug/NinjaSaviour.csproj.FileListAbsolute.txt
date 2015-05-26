@@ -1,0 +1,41 @@
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\NinjaSaviour.exe
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\NinjaSaviour.pdb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\obj\x86\Debug\NinjaSaviour.exe
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\obj\x86\Debug\NinjaSaviour.pdb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour Backup\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\level.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour Backup\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\star.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour Backup\NinjaSaviour\NinjaSaviour\bin\x86\Debug\NinjaSaviour.exe
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour Backup\NinjaSaviour\NinjaSaviour\bin\x86\Debug\NinjaSaviour.pdb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour Backup\NinjaSaviour\NinjaSaviour\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour Backup\NinjaSaviour\NinjaSaviour\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour Backup\NinjaSaviour\NinjaSaviour\obj\x86\Debug\NinjaSaviour.exe
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour Backup\NinjaSaviour\NinjaSaviour\obj\x86\Debug\NinjaSaviour.pdb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\ninja.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\shuriken.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\enemies.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\level2.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\level1.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\level3.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\boss.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\bossshuriken.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\instructions.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\menu_exit.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\menu_instructions.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\menu_start.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\bosslevel1.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\bosslevel2.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\bosslevel3.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\congratulations.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\intro.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\fail_again.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\fail_menu.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\pause_menu.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\pause_reset.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\pause_resume.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\ninjasaviour.xnb
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\NinjaSaviour.exe.manifest
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\NinjaSaviour.application
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\obj\x86\Debug\NinjaSaviour.exe.manifest
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\obj\x86\Debug\NinjaSaviour.application
+D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\obj\x86\Debug\NinjaSaviour.csprojResolveAssemblyReference.cache

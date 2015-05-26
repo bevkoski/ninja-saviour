@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ninja.png</Source>
+      <Name>ninja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\ninja.xnb</Output>
+      <Time>2014-01-07T16:37:24.5511622+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shuriken.png</Source>
+      <Name>shuriken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\shuriken.xnb</Output>
+      <Time>2014-01-08T18:28:42.3108715+01:00</Time>
+    </Item>
+    <Item>
+      <Source>enemies.png</Source>
+      <Name>enemies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\enemies.xnb</Output>
+      <Time>2014-01-09T10:50:31.9156489+01:00</Time>
+    </Item>
+    <Item>
+      <Source>level2.png</Source>
+      <Name>level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\level2.xnb</Output>
+      <Time>2014-02-03T19:01:57.4782223+01:00</Time>
+    </Item>
+    <Item>
+      <Source>level1.png</Source>
+      <Name>level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\level1.xnb</Output>
+      <Time>2014-02-03T18:56:20.2459337+01:00</Time>
+    </Item>
+    <Item>
+      <Source>level3.png</Source>
+      <Name>level3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\level3.xnb</Output>
+      <Time>2014-02-03T19:04:52.0442069+01:00</Time>
+    </Item>
+    <Item>
+      <Source>boss.png</Source>
+      <Name>boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\boss.xnb</Output>
+      <Time>2014-01-11T15:47:35.6781512+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bossshuriken.png</Source>
+      <Name>bossshuriken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\bossshuriken.xnb</Output>
+      <Time>2014-01-11T14:20:02.9113349+01:00</Time>
+    </Item>
+    <Item>
+      <Source>instructions.png</Source>
+      <Name>instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\instructions.xnb</Output>
+      <Time>2014-02-04T23:45:24.6875676+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_exit.png</Source>
+      <Name>menu_exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\menu_exit.xnb</Output>
+      <Time>2014-02-02T17:42:04.2567589+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_instructions.png</Source>
+      <Name>menu_instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\menu_instructions.xnb</Output>
+      <Time>2014-02-02T17:41:38.7112978+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_start.png</Source>
+      <Name>menu_start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\menu_start.xnb</Output>
+      <Time>2014-02-02T17:40:50.2375253+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bosslevel1.png</Source>
+      <Name>bosslevel1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\bosslevel1.xnb</Output>
+      <Time>2014-02-03T19:16:11.4870688+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bosslevel2.png</Source>
+      <Name>bosslevel2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\bosslevel2.xnb</Output>
+      <Time>2014-02-03T19:15:50.7558831+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bosslevel3.png</Source>
+      <Name>bosslevel3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\bosslevel3.xnb</Output>
+      <Time>2014-02-03T19:15:27.5485557+01:00</Time>
+    </Item>
+    <Item>
+      <Source>congratulations.png</Source>
+      <Name>congratulations</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\congratulations.xnb</Output>
+      <Time>2014-02-03T20:04:26.3616462+01:00</Time>
+    </Item>
+    <Item>
+      <Source>intro.png</Source>
+      <Name>intro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\intro.xnb</Output>
+      <Time>2014-02-04T17:41:03.5907232+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fail_again.png</Source>
+      <Name>fail_again</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\fail_again.xnb</Output>
+      <Time>2014-02-04T18:44:36.0769965+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fail_menu.png</Source>
+      <Name>fail_menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\fail_menu.xnb</Output>
+      <Time>2014-02-04T18:44:51.3348692+01:00</Time>
+    </Item>
+    <Item>
+      <Source>pause_menu.png</Source>
+      <Name>pause_menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\pause_menu.xnb</Output>
+      <Time>2014-02-04T19:25:27.8783509+01:00</Time>
+    </Item>
+    <Item>
+      <Source>pause_reset.png</Source>
+      <Name>pause_reset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\pause_reset.xnb</Output>
+      <Time>2014-02-04T19:25:41.3231199+01:00</Time>
+    </Item>
+    <Item>
+      <Source>pause_resume.png</Source>
+      <Name>pause_resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\pause_resume.xnb</Output>
+      <Time>2014-02-04T19:25:13.4775272+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ninjasaviour.wav</Source>
+      <Name>ninjasaviour</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\ninjasaviour.xnb</Output>
+      <Time>2014-02-04T22:46:11.7952662+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C7F882F1-19B1-4697-85EE-9B75FD7E1426}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviourContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents\FINKI\2013 - 2014\Semestar 1\Programiranje na video igri i specijalni efekti\Proekt\NinjaSaviour\NinjaSaviour\NinjaSaviour\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-20T17:20:42.6318811+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
