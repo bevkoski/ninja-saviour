@@ -20,14 +20,19 @@ namespace NinjaSaviour
         int attackTimer;
         Random random = new Random();
         int life = 3;
+        bool dying;
 
         // graphics
         Texture2D sprite;
-        const int IMAGES_PER_ROW = 3;
+        const int IMAGES_PER_ROW = 4;
         int column;
         int frameWidth;
         Rectangle drawRectangle = new Rectangle();
         Rectangle sourceRectangle;
+        const int DYING_MS = 4000;
+        const int DYING_STEP = 500;
+        int elapsedDyingMS = 0;
+        int totalDyingMS = 0;
 
         // movement
         int direction;
@@ -55,6 +60,7 @@ namespace NinjaSaviour
             this.direction = 1;
             column = 0;
             attackTimer = 1000 + random.Next(0, 5000);
+            dying = false;
 
             // initialize projectiles
             projectiles = new List<Projectile>();
@@ -82,6 +88,12 @@ namespace NinjaSaviour
             set { life = value; }
         }
 
+        public bool Dying
+        {
+            get { return dying; }
+            set { dying = value; }
+        }
+
         private void LoadContent(ContentManager contentManager, string spriteName)
         {
             // load content, calculate image width, and set remainder of draw rectangle
@@ -105,8 +117,40 @@ namespace NinjaSaviour
                 column = 0;
             }
 
+            if (dying)
+            {
+                if (column == 1 || column == 2)
+                {
+                    column = 3;
+                    elapsedDyingMS += gameTime.ElapsedGameTime.Milliseconds;
+                    totalDyingMS += gameTime.ElapsedGameTime.Milliseconds;
+                }
+                else
+                {
+                    if (totalDyingMS > DYING_MS)
+                    {
+                        dying = false;
+                        active = false;
+                    }
+                    else
+                    {
+                        if (elapsedDyingMS > DYING_STEP)
+                        {
+                            if (column == 0)
+                                column = 3;
+                            else
+                                column = 0;
+
+                            elapsedDyingMS = 0;
+                        }
+
+                        elapsedDyingMS += gameTime.ElapsedGameTime.Milliseconds;
+                        totalDyingMS += gameTime.ElapsedGameTime.Milliseconds;
+                    }
+                }
+            }
             // check for an attack
-            if (attackStepMS >= (1000 + attackTimer))
+            else if (attackStepMS >= (1000 + attackTimer))
             {
                 // animate attack
                 attackStepMS = -2000;
@@ -201,7 +245,7 @@ namespace NinjaSaviour
             // check for a death
             if (life == 0)
             {
-                active = false;
+                dying = true;
             }
 
             // update projectiles

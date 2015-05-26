@@ -18,15 +18,21 @@ namespace NinjaSaviour
         int Y;
         bool active;
         int moving;
+        bool dying;
 
         // graphics
         Texture2D sprite;
-        const int IMAGES_PER_ROW = 3;
+        const int IMAGES_PER_ROW = 4;
         int type;
         int column;
         int frameWidth;
         Rectangle drawRectangle = new Rectangle();
         Rectangle sourceRectangle;
+        const int DYING_MS = 200;
+        const int DYING_STEP = 75;
+        int elapsedDyingMS = 0;
+        int totalDyingMS = 0;
+
 
         // movement
         int axis;
@@ -51,6 +57,7 @@ namespace NinjaSaviour
             this.axis = axis;
             this.direction = 1;
             column = 0;
+            dying = false;
 
             // load content
             LoadContent(contentManager, spriteName);
@@ -65,6 +72,12 @@ namespace NinjaSaviour
         {
             get { return active; }
             set { active = value; }
+        }
+
+        public bool Dying
+        {
+            get { return dying; }
+            set { dying = value; }
         }
 
         public int Moving
@@ -100,7 +113,36 @@ namespace NinjaSaviour
 
             bool flag;
 
-            if (axis == 0)
+            if (dying)
+            {
+                if (column == 1 || column == 2)
+                {
+                    column = 3;
+                    elapsedDyingMS += gameTime.ElapsedGameTime.Milliseconds;
+                    totalDyingMS += gameTime.ElapsedGameTime.Milliseconds;
+                }
+                else
+                {
+                    if (totalDyingMS > DYING_MS)
+                        dying = false;
+                    else
+                    {
+                        if (elapsedDyingMS > DYING_STEP)
+                        {
+                            if (column == 0)
+                                column = 3;
+                            else
+                                column = 0;
+
+                            elapsedDyingMS = 0;
+                        }
+
+                        elapsedDyingMS += gameTime.ElapsedGameTime.Milliseconds;
+                        totalDyingMS += gameTime.ElapsedGameTime.Milliseconds;
+                    }
+                }
+            }
+            else if (axis == 0)
             {
                 if (direction == 1)
                 {
@@ -250,7 +292,7 @@ namespace NinjaSaviour
 
         public void Draw(SpriteBatch spriteBatch)
         {
-            if (active)
+            if (active || dying)
                 spriteBatch.Draw(sprite, drawRectangle, sourceRectangle, Color.White);
         }
     }

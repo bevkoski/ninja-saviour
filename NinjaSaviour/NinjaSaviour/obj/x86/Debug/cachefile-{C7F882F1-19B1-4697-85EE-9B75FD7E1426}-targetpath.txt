@@ -1,8 +1,7 @@
-Content\ninja.xnb
 Content\shuriken.xnb
 Content\enemies.xnb
-Content\level2.xnb
 Content\level1.xnb
+Content\level2.xnb
 Content\level3.xnb
 Content\boss.xnb
 Content\bossshuriken.xnb
@@ -21,3 +20,4 @@ Content\pause_menu.xnb
 Content\pause_reset.xnb
 Content\pause_resume.xnb
 Content\ninjasaviour.xnb
+Content\ninja2.xnb

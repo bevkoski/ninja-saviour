@@ -285,6 +285,7 @@ namespace NinjaSaviour
                             && Math.Abs(enemy.CollisionRectangle.Center.Y - shuriken.CollisionRectangle.Center.Y) < 20)
                         {
                             enemy.Active = false;
+                            enemy.Dying = true;
                             shuriken.Flying = false;
                         }
                     }

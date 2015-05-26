@@ -19,7 +19,7 @@ namespace NinjaSaviour
 
         // graphics
         Texture2D sprite;
-        const int IMAGES_PER_ROW = 6;
+        const int IMAGES_PER_ROW = 14;
         int row;
         int column;
         int frameWidth;
@@ -30,7 +30,7 @@ namespace NinjaSaviour
         // movement
         const int MOVE_AMOUNT = 4;
         const int CELL_WIDTH = 20;
-        const int STEP = 300;
+        const int STEP = 250;
         int elapsedStepMS = 0;
 
         // shuriken
@@ -136,9 +136,8 @@ namespace NinjaSaviour
                         elapsedStepMS = 0;
 
                         // change the column for the sprite sheet
-                        if (column == 0 || column == 1)
-                            column = 2;
-                        else
+                        column++;
+                        if (column == 7)
                             column = 1;
                     }
                 }
@@ -170,9 +169,8 @@ namespace NinjaSaviour
                         elapsedStepMS = 0;
 
                         // change the column for the sprite sheet
-                        if (column == 0 || column == 1)
-                            column = 2;
-                        else
+                        column++;
+                        if (column == 7)
                             column = 1;
                     }
                 }
@@ -204,9 +202,8 @@ namespace NinjaSaviour
                         elapsedStepMS = 0;
 
                         // change the column for the sprite sheet
-                        if (column == 0 || column == 1)
-                            column = 2;
-                        else
+                        column++;
+                        if (column == 7)
                             column = 1;
                     }
                 }
@@ -241,9 +238,8 @@ namespace NinjaSaviour
                         elapsedStepMS = 0;
 
                         // change the column for the sprite sheet
-                        if (column == 0 || column == 1)
-                            column = 2;
-                        else
+                        column++;
+                        if (column == 7)
                             column = 1;
                     }
                 }

@@ -103,11 +103,11 @@ namespace NinjaSaviour
             // check for a collision between the shuriken and the ninja
             if (Math.Abs(ninja.CollisionRectangle.Center.X - this.CollisionRectangle.Center.X) < this.frameWidth / 2
                 && Math.Abs(ninja.CollisionRectangle.Center.Y - this.CollisionRectangle.Center.Y) < this.frameWidth / 2
-                && ninja.Offset != 3
+                && ninja.Offset != 7
                 && active == true)
             {
                 active = false;
-                ninja.Offset = 3;
+                ninja.Offset = 7;
                 ninja.Shuriken = this;
             }
 

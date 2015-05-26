@@ -89,7 +89,7 @@ namespace NinjaSaviour
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // create an object for the ninja
-            ninja = new Ninja(Content, "ninja");
+            ninja = new Ninja(Content, "ninja2");
 
             // create an object for the boss
             boss = new Boss(Content, "boss", 640, 270);
@@ -285,7 +285,7 @@ namespace NinjaSaviour
                 }
 
                 // check for victory
-                if (boss.Life == 0)
+                if (boss.Life == 0 && boss.Active == false)
                 {
                     state = "victory";
                     menuTexture = congratsTexture;
